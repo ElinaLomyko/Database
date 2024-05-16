@@ -1,6 +1,8 @@
 # Scheme
-![diagram_1](https://github.com/ElinaLomyko/Database/assets/164906086/4a98f270-9501-471d-94ac-a674d7dbbe07)
+<img width="912" alt="image" src="https://github.com/ElinaLomyko/Database/assets/164906086/8f3d1ca7-364d-438d-86d7-de07a8097d46">
+
 
 
 # Tables
-<img width="364" alt="diagram_2" src="https://github.com/ElinaLomyko/Database/assets/164906086/6142d446-b4f3-4459-8306-f14d468944b6">
+<img width="630" alt="image" src="https://github.com/ElinaLomyko/Database/assets/164906086/f6b8de69-7e48-4a8d-a93e-6d5e19fede6b">
+
